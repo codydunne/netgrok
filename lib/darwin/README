@@ -1,0 +1,15 @@
+NetGrok Dependencies for OS X (Darwin)
+======================================
+
+All files referenced in this README can be found in your architecture's respective
+folder. If you are using a newer Macintosh laptop, use the 32-bit i386 folder. 
+
+Installing jPCAP
+================
+
+To install jPCAP, do the following:
+
+ - Copy libjpcap.jnilib to the /Library/Java/Extensions/ directory 
+ - Copy jpcap-0.7.jar to the /Library/Java/Extensions/ directory or any directory 
+   in Java's CLASSPATH.
+   
